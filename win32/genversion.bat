@@ -2,13 +2,9 @@
 
 setlocal enableextensions enabledelayedexpansion
 
-for /f %%v in ('git --git-dir="%~dp0..\.git" describe --tags --match "v*"') do set version=%%v
-
-if not "%version%"=="" goto :gotversion
-
 if exist "%~dp0..\version.mk" goto :getversion
 
-echo Git cannot be found, nor can version.mk. Generating unknown version.
+echo version.mk cannot be found. Generating unknown version.
 
 set version=unknown
 
