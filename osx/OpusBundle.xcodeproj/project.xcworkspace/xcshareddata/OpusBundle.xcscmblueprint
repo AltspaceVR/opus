@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "60C590E0A1E3A270911208E27AD0681DC1AAA138",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BFD235999FE9CE0A30F5EFA9428759D5AA4BAACF" : 0,
+    "60C590E0A1E3A270911208E27AD0681DC1AAA138" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F35B6463-2EAE-4471-A591-152243FEC142",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BFD235999FE9CE0A30F5EFA9428759D5AA4BAACF" : "",
+    "60C590E0A1E3A270911208E27AD0681DC1AAA138" : "opus\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpusBundle",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "osx\/OpusBundle.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:AltspaceVR\/opus.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "60C590E0A1E3A270911208E27AD0681DC1AAA138"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:AltspaceVR\/DFVoiceOpus.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BFD235999FE9CE0A30F5EFA9428759D5AA4BAACF"
+    }
+  ]
+}
